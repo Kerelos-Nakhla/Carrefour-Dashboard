@@ -257,7 +257,10 @@ projected_incremental_revenue = [projected_revenue] - [total_revenue]
   <img src="Dashboard%20Previews/Landing%20Page.png" alt="PULSE Analytics - Landing Page" width="850" />
   <br/><br/>
   <p><b>02 — Executive Overview Page</b></p>
-  <img src="Dashboard%20Previews/Overview%20Page.png" alt="PULSE Analytics - Overview Page" width="850" />
+  <img src="Dashboard%20Previews/Overview%20Page.png" alt="PULSE Analytics - Overview Page 1" width="850" />
+  <br/><br/>
+  <p><b>03 — Executive Overview Page 2</b></p>
+  <img src="Dashboard%20Previews/Overview%20Page%202.png" alt="PULSE Analytics - Overview Page 2" width="850" />
   <br/><br/>
   <p><b>03 — Customer Intelligence Page</b></p>
   <img src="Dashboard%20Previews/Customer%20Page.png" alt="PULSE Analytics - Customer Page" width="850" />
@@ -338,6 +341,7 @@ PULSE-Analytics/
 ├── Dashboard Previews/                    # High-resolution dashboard page screenshots
 │   ├── Landing Page.png
 │   ├── Overview Page.png
+│   ├── Overview Page 2.png
 │   ├── Customer Page.png
 │   ├── Country Page.png
 │   ├── Products Page.png
